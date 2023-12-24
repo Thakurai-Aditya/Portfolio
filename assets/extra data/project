@@ -1,0 +1,69 @@
+<article class="projects__card">
+                  <img src="assets/img/project-img-3.jpg" alt="Project image" class="projects__img">
+
+                  <div class="projects__modal">
+                     <span class="projects__subtitle">Web</span>
+
+                     <h2 class="projects__title">Modern website</h2>
+
+                     <a href="#" class="projects__button">
+                        View demo <i class="ri-external-link-line"></i>
+                     </a>
+                  </div>
+               </article>
+
+               <article class="projects__card">
+                  <img src="assets/img/project-img-4.jpg" alt="Project image" class="projects__img">
+
+                  <div class="projects__modal">
+                     <span class="projects__subtitle">Web</span>
+
+                     <h2 class="projects__title">Modern website</h2>
+
+                     <a href="#" class="projects__button">
+                        View demo <i class="ri-external-link-line"></i>
+                     </a>
+                  </div>
+               </article>
+
+               <article class="projects__card">
+                  <img src="assets/img/project-img-5.jpg" alt="Project image" class="projects__img">
+
+                  <div class="projects__modal">
+                     <span class="projects__subtitle">Web</span>
+
+                     <h2 class="projects__title">Modern website</h2>
+
+                     <a href="#" class="projects__button">
+                        View demo <i class="ri-external-link-line"></i>
+                     </a>
+                  </div>
+               </article>
+
+               <article class="projects__card">
+                  <img src="assets/img/project-img-6.jpg" alt="Project image" class="projects__img">
+
+                  <div class="projects__modal">
+                     <span class="projects__subtitle">Web</span>
+
+                     <h2 class="projects__title">Modern website</h2>
+
+                     <a href="#" class="projects__button">
+                        View demo <i class="ri-external-link-line"></i>
+                     </a>
+                  </div>
+               </article>
+
+               /*========== Colors ==========*/
+               /*Color mode HSL(hue, saturation, lightness)*/
+               /* 
+                   Change favorite color
+                   Default: hsl(162, 100%, 40%)
+                   Orange: hsl(14, 100%, 65%) - Blue: hsl(210, 100%, 70%)
+                   Pink: hsl(356, 100%, 75%) - Purple: hsl(250, 100%, 75%)
+             
+                   For more colors visit: https://colors.dopely.top/color-pedia
+                   -> Choose any color 
+                   -> click on tab (Color Conversion)
+                   -> Copy the color mode (HSL)
+               */
